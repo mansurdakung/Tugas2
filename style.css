@@ -1,0 +1,44 @@
+body{
+	background-color: skyblue;
+	padding: 25px;
+	margin: 25px;
+	font-family: sans-serif;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	background-color: #fff;
+	border-radius: 15px;
+}
+.container .box{
+	margin: 25px;
+	padding: 20px;
+	text-align: center;
+	justify-content: center;
+}
+.container .box img{
+	height: 200px;
+	widows: 200px;
+}
+
+.container .box p{
+	color: gray;
+}
+.container .box h4{
+	color: #14a5ff;
+}
+.container .box h2{
+	color: #1476ff;
+}
+.container .box  button{
+	margin: 10px;
+	padding: 10px;
+	border-radius: 8px;
+	color:#14a5ff ;
+	border-color:#14a5ff ;
+}
+.container .box .kolom2 button{
+	background-color: #38c7ff;
+	color: white;
+}
